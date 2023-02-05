@@ -1,0 +1,47 @@
+# Write a program to swich the last char to the first char of string anf then print 
+
+
+MethodString(string str)
+{
+  arraychar = str.toCharArray();
+  if (aaraychar.Lenght >0)
+{
+  var char= arraychar[array.Lenght] ;
+  arraychar[array.Lenght] = arraychar[0];
+  arraychar[0] = char;
+  str = array.Tostring();
+  
+}
+
+
+
+
+
+# - Wrting a route map and API controller route
+
+service.AddRoute
+{  maproute = $"api/abc?{param}";
+}
+
+[HttpRoute Get = "serverice/customer?{id}"]
+Conrtroller CustomerGet()
+{ 
+  
+}
+
+
+
+# Example for contructor DI
+
+Class  ABC():ILogger
+
+Private Ilogger _logger; 
+
+public ABC()
+{
+  _logger = This.Logger();
+}
+
+
+
+# Create a Genric class and implement with genric list or some data type of dataset.
